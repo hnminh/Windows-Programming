@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E8A19A1B-3A6E-4E8F-BD77-8DD3FC76E08C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment_2_2/TextAnalyzer.cs">
+    <Files>
+      <File FileName="Assignment_2_1/Program.cs" Line="20" Column="1" />
+      <File FileName="Assignment_2_1/Concert.cs" Line="38" Column="1" />
+      <File FileName="Assignment_2_2/Program.cs" Line="13" Column="1" />
+      <File FileName="Assignment_2_2/TextAnalyzer.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment_2" expanded="True">
+            <Node name="Assignment_2_1" expanded="True" />
+            <Node name="Assignment_2_2" expanded="True">
+              <Node name="TextAnalyzer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment__2__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assignment__2__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

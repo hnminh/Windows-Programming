@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0073569F-6736-4E6E-9B40-FAD450A7371B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Assignment__1__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment_1" expanded="True">
+            <Node name="Assignment_1_1" expanded="True">
+              <Node name="Matrix.cs" selected="True" />
+            </Node>
+            <Node name="Assignment_1_2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment__1__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

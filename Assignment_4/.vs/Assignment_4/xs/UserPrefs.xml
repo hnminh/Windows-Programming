@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F20F19F8-D172-4C9C-A6A8-66C1A3C366B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment_4/Program.cs">
+    <Files>
+      <File FileName="Assignment_4/Program.cs" Line="47" Column="48" />
+      <File FileName="Assignment_4/AirlineCompany.cs" Line="93" Column="35" />
+      <File FileName="Assignment_4/Flight.cs" Line="10" Column="36" />
+      <File FileName="Assignment_4/Delegates.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment_4" expanded="True">
+            <Node name="Assignment_4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

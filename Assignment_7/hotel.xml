@@ -1,0 +1,48 @@
+﻿<hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Venus Hotel</name>
+  <constructionDate>1989-11-23T00:00:00</constructionDate>
+  <address>Helsinki</address>
+  <numberOfStars>4</numberOfStars>
+  <room>
+    <roomNumber>A201</roomNumber>
+    <area>A</area>
+    <type>single</type>
+    <price>20</price>
+    <description />
+  </room>
+  <room>
+    <roomNumber>A202</roomNumber>
+    <area>A</area>
+    <type>single</type>
+    <price>22</price>
+    <description>sea view</description>
+  </room>
+  <room>
+    <roomNumber>B201</roomNumber>
+    <area>B</area>
+    <type>double</type>
+    <price>35</price>
+    <description />
+  </room>
+  <customer>
+    <name>Adam</name>
+    <address>Vaasa</address>
+    <roomNumber>A201</roomNumber>
+    <arrivalDate>2021-01-03T00:00:00</arrivalDate>
+    <numberOfNights>2</numberOfNights>
+  </customer>
+  <customer>
+    <name>Bach</name>
+    <address>Vaasa</address>
+    <roomNumber>A202</roomNumber>
+    <arrivalDate>2021-01-03T00:00:00</arrivalDate>
+    <numberOfNights>4</numberOfNights>
+  </customer>
+  <customer>
+    <name>Minh</name>
+    <address>Helsinki</address>
+    <roomNumber>B201</roomNumber>
+    <arrivalDate>2021-01-03T00:00:00</arrivalDate>
+    <numberOfNights>3</numberOfNights>
+  </customer>
+</hotel>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzn3VeJ51n2im1qv4QGkNw7XmxfW6Qrw6wdayzg/Lqq9gqyXF+U/qNi6EMySgHmTHJEkijCxH7z/8McohHJ/eQ==",
+  "success": true,
+  "projectFilePath": "/Users/minhhoang/Downloads/VAMK/WP/Assignment_7/Assignment_7/Assignment_7.csproj",
+  "expectedPackageFiles": [
+    "/Users/minhhoang/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

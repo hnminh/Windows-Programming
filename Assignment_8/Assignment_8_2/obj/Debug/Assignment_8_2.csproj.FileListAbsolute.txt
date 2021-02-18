@@ -1,0 +1,11 @@
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\bin\Debug\Assignment_8_2.exe.config
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\bin\Debug\Assignment_8_2.exe
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\bin\Debug\Assignment_8_2.pdb
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.csprojAssemblyReference.cache
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.MainForm.resources
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.Properties.Resources.resources
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.csproj.GenerateResource.cache
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.csproj.CoreCompileInputs.cache
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.exe
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.pdb
+C:\Users\BOOTCAMP\Downloads\Assignment_8\Assignment_8_2\obj\Debug\Assignment_8_2.SummaryForm.resources

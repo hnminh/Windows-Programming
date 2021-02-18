@@ -1,0 +1,12 @@
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/bin/Debug/netcoreapp3.1/Assignment_6.deps.json
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/bin/Debug/netcoreapp3.1/Assignment_6.runtimeconfig.json
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/bin/Debug/netcoreapp3.1/Assignment_6.runtimeconfig.dev.json
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/bin/Debug/netcoreapp3.1/Assignment_6.dll
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/bin/Debug/netcoreapp3.1/Assignment_6.pdb
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/obj/Debug/netcoreapp3.1/Assignment_6.csprojAssemblyReference.cache
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/obj/Debug/netcoreapp3.1/Assignment_6.AssemblyInfoInputs.cache
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/obj/Debug/netcoreapp3.1/Assignment_6.AssemblyInfo.cs
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/obj/Debug/netcoreapp3.1/Assignment_6.csproj.CoreCompileInputs.cache
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/obj/Debug/netcoreapp3.1/Assignment_6.dll
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/obj/Debug/netcoreapp3.1/Assignment_6.pdb
+/Users/minhhoang/Downloads/VAMK/WP/Assignment_6/Assignment_6/obj/Debug/netcoreapp3.1/Assignment_6.genruntimeconfig.cache

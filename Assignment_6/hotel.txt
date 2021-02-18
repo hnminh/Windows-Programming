@@ -1,0 +1,1 @@
+Venus Hotel;23/11/1989;Helsinki;4#A201;A;single;20;|A202;A;single;22;sea view|B201;B;double;35;|#Adam;Vaasa;A201;03/01/2021;2|Bach;Vaasa;A202;03/01/2021;4|Minh;Helsinki;B201;03/01/2021;3|#
